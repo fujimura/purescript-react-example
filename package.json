@@ -1,0 +1,16 @@
+{
+  "name": "purescript-react-example",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "gulp": "^3.6.2",
+    "gulp-purescript": "fujimura/gulp-purescript#168b363d24088d2318038a597a135daed0bb4914"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fujimura Daisuke <me@fujimuradaisuke.com>",
+  "license": "MIT"
+}

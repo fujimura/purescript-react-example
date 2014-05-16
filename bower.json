@@ -1,0 +1,16 @@
+{
+  "name": "purescript-react-example",
+  "version": "0.0.0",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "purescript-react": "git@github.com:purescript-contrib/purescript-react.git",
+    "react": "~0.10.0"
+  }
+}
