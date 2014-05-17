@@ -5,7 +5,7 @@
   "main": "app.js",
   "dependencies": {
     "gulp": "^3.6.2",
-    "gulp-purescript": "fujimura/gulp-purescript#168b363d24088d2318038a597a135daed0bb4914"
+    "gulp-purescript": "0.0.7"
   },
   "devDependencies": {},
   "scripts": {
