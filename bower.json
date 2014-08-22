@@ -10,7 +10,7 @@
     "tests"
   ],
   "dependencies": {
-    "purescript-react": "git@github.com:purescript-contrib/purescript-react.git",
+    "purescript-react": "https://github.com/purescript-contrib/purescript-react.git",
     "react": "~0.10.0"
   }
 }
